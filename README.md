@@ -23,9 +23,8 @@ A simple yet visually appealing example of how you can use **HTML**, **CSS**, an
 - 🧩 Responsive layout with modern design aesthetics
 
 ## 📁 Folder Structure
-3d-product-display/
-│
-├── index.html # Main HTML file
+3d-product-display--
+├── index.html # Main HTML file 
 ├── style.css # 3D styling and animations
 ├── script.js # JavaScript interactivity
 
@@ -42,4 +41,5 @@ A simple yet visually appealing example of how you can use **HTML**, **CSS**, an
 Inspired by modern product landing pages, this simple 3D display showcases the power of CSS transforms and a bit of JavaScript to create stunning effects with minimal code.
 
 📄 License
+
 MIT License. Feel free to use and modify!
