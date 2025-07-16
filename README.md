@@ -40,6 +40,6 @@ A simple yet visually appealing example of how you can use **HTML**, **CSS**, an
 💡 Inspiration
 Inspired by modern product landing pages, this simple 3D display showcases the power of CSS transforms and a bit of JavaScript to create stunning effects with minimal code.
 
-📄 License
+## 📄 License
 
 MIT License. Feel free to use and modify!
